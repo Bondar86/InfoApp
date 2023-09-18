@@ -1,5 +1,5 @@
 # InfoApp
-First time se UITabBarController, assets, UITableView and custom cell for TableView.
+First time use UITabBarController, assets, UITableView and custom cell for TableView.
 
 ## Screenshots:
 <p align="center">
